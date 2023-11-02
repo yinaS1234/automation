@@ -8,4 +8,5 @@ def fool():
   print('fool')
 
 print('bye bye')
+print('happy learning')
 
