@@ -7,3 +7,5 @@ print('hi again')
 def fool():
   print('fool')
 
+print('bye bye')
+
